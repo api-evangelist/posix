@@ -6,7 +6,7 @@ description: >-
   line shell, and utility interfaces for maintaining compatibility between
   Unix and Unix-like systems. It is a specification rather than a network
   API, and there is no public REST or HTTP interface for the standard.
-type: Standard
+kind: standard
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - IEEE
