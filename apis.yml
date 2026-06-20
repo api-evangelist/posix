@@ -7,7 +7,7 @@ description: >-
   Unix and Unix-like systems. It is a specification rather than a network
   API, and there is no public REST or HTTP interface for the standard.
 kind: standard
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - IEEE
   - Open Group
