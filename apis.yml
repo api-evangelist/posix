@@ -22,7 +22,7 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
-  - type: Standard
+  - type: Standards
     url: https://pubs.opengroup.org/onlinepubs/9699919799/
   - type: IEEE
     url: https://standards.ieee.org/ieee/1003.1/7700/
