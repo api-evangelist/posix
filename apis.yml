@@ -32,7 +32,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/posix.png
 tags:
   - IEEE
-  - Open-Group
+  - Open Group
   - Operating Systems
   - POSIX
   - Standards
