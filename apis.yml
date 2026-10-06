@@ -47,10 +47,12 @@ tags_raw:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/posix/refs/heads/main/apis.yml
 created: '2025-01-01'
-modified: '2026-04-28'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://blog.opengroup.org/feed/
+    type: BlogRSS
   - type: Website
     url: https://www.opengroup.org/
   - type: Standards
