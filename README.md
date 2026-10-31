@@ -1,4 +1,4 @@
-# POSIX (posix)
+# posix
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,36 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-POSIX (Portable Operating System Interface) is a family of IEEE and Open Group standards that define a consistent operating system API, command line shell, and utility interfaces for maintaining compatibility between Unix and Unix-like systems. It is a specification rather than a network API, and there is no public REST or HTTP interface for the standard.
+## posix on APIs.io
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/posix/refs/heads/main/apis.yml)
+Everything profiled for posix is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/posix/](https://apis.io/providers/posix/)** — or go straight to one of the APIs or properties below.
 
-## Scope
+## API Evangelist rating
 
-- **Type:** Standard
+Not yet rated. See [apis.io/providers/posix/](https://apis.io/providers/posix/).
 
-## Tags:
+## How this profile is made
 
- - IEEE, Open Group, Operating Systems, POSIX, Standards, Unix
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Timestamps
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for posix: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-- **Created:** 2025-01-01
-- **Modified:** 2026-04-28
+## Open an issue
 
-## APIs
-
-POSIX is a standards specification, not a network API. No OpenAPI is published.
-
-## Common Properties
-
-- [Standard](https://pubs.opengroup.org/onlinepubs/9699919799/)
-- [IEEE](https://standards.ieee.org/ieee/1003.1/7700/)
-- [Wikipedia](https://en.wikipedia.org/wiki/POSIX)
-- [OpenGroup](https://www.opengroup.org/austin/)
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/posix/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
